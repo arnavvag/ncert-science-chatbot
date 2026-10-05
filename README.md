@@ -1,5 +1,7 @@
 # NCERT Class 10 Science Chatbot with Smart Caching
 
+🔴 **Live Demo:** https://ncert-science-chatbot-class10th.streamlit.app
+
 A doubt-solving chatbot for the **current NCERT Class 10 Science textbook**.
 
 The chatbot:
