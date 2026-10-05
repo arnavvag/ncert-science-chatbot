@@ -53,7 +53,7 @@ Safety validation + cache store
 Reply + chapter + cache status + latency
 ```
 
-A one-page technical write-up is available at [`docs/EXPLAINER.pdf`](docs/EXPLAINER.pdf).
+
 
 ---
 
