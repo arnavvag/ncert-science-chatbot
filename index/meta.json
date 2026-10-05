@@ -1,0 +1,21 @@
+{
+  "index_version": "030fc7bd4549",
+  "embed_model": "BAAI/bge-small-en-v1.5",
+  "n_chunks": 705,
+  "chapters": [
+    "Chemical Reactions and Equations",
+    "Acids, Bases and Salts",
+    "Metals and Non-metals",
+    "Carbon and its Compounds",
+    "Life Processes",
+    "Control and Coordination",
+    "How do Organisms Reproduce?",
+    "Heredity",
+    "Light – Reflection and Refraction",
+    "The Human Eye and the Colourful World",
+    "Electricity",
+    "Magnetic Effects of Electric Current",
+    "Our Environment",
+    "1. (i) 2. (d) 3. (a)"
+  ]
+}

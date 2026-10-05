@@ -1,0 +1,16 @@
+# Tested with Python 3.12. On Streamlit Cloud choose Python 3.11 or 3.12 (Advanced settings).
+langchain-core>=1.0,<2
+langchain-community>=0.4,<1
+langchain-openai>=1.0,<2
+langchain-text-splitters>=1.0,<2
+faiss-cpu>=1.9
+fastembed>=0.5
+pypdf>=5.0
+fastapi>=0.115
+uvicorn>=0.30
+streamlit>=1.40
+requests>=2.31
+snowballstemmer>=2.2
+numpy>=1.26
+python-dotenv>=1.0
+pydantic>=2.7
